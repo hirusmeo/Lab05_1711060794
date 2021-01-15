@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lab05</string>
+    <string name="insert">Thêm</string>
+    <string name="add_address">Thêm địa chỉ</string>
+    <string name="name">Tên</string>
+    <string name="address">Địa chỉ</string>
+    <string name="domestic_foreign">Trong nước/Ngoài nước</string>
+    <string name="foreign">Ngoài nước</string>
+    <string name="domestic">Trong nước</string>
+    <string name="country">Quốc gia</string>
+    <string name="zip_code">Mã zip</string>
+    <string name="edit">Chỉnh sửa</string>
+    <string name="edit_address">Chỉnh sửa địa chỉ</string>
+    <string name="todo">TODO</string>
+
+
+    <string-array name="country">
+        <item name="vietnam">Viet Nam</item>
+        <item name="american">United State</item>
+        <item name="italy">Italy</item>
+        <item name="united_kingdom">United Kingdom</item>
+    </string-array>
+</resources>
